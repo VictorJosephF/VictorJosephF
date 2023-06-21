@@ -1,17 +1,32 @@
 
+## Olá! Eu sou o Victor Joseph Faria!
+ - Graduando em Análise e Desenvolvimento de Sistemas.
+ - Desenvolvedor em Formação.
+ - Aprendendo Python, Web(JavaScript, HTML 5 E CSS 3) e POO.
+ - Buscando uma oportunidade no mercado.
+   
 
-<!--
-**VictorJosephF/VictorJosephF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/GabrielV21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorJosephF&show_icons=true&theme=synthwave&include_all_commits=false&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJosephF&layout=compact&langs_count=10&theme=synthwave"/>                                                                                             
+</div>
 
-Here are some ideas to get you started:
+<div style= "display: inline_block"><br/>
+<img align="center" alt="Git" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
+<img align="center" alt="Java" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="30">
+<img align="center" alt="JavaScript" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30">
+<img align="center" alt="HTML 5" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="30">
+<img align="center" alt="CSS 3" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="30">
+<img align="center" alt="MySQL" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="30">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![VIctorJosephF GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJosephF)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
+          
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-faria-47657520b/) 
+<a href="https://www.instagram.com/nvk.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:victorfariaj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/PrYAn92VYH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
