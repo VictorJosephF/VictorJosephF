@@ -7,9 +7,9 @@
    
 
 <div>
-  <a href="https://github.com/GabrielV21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorJosephF&show_icons=true&theme=synthwave&include_all_commits=false&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJosephF&layout=compact&langs_count=10&theme=synthwave"/>                                                                                             
+  <a href="[https://](https://github.com/VictorJosephF)">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorJosephF&show_icons=true&theme=synthwave&include_all_commits=false&count_private=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJosephF&layout=compact&langs_count=10&theme=synthwave"/>                                                                                             
 </div>
 
 <div style= "display: inline_block"><br/>
