@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Victor Joseph Faria!
  - Graduando em Análise e Desenvolvimento de Sistemas.
  - Desenvolvedor em Formação.
- - Aprendendo Python, Web(JavaScript, HTML 5 E CSS 3) e POO.
+ - Aprendendo Java, Web(JavaScript, HTML 5 E CSS 3).
  - Buscando uma oportunidade no mercado.
    
 
