@@ -1,9 +1,9 @@
 
 ## Olá! Eu sou o Victor Joseph Faria!
- - Graduando em Análise e Desenvolvimento de Sistemas.
- - Desenvolvedor em Formação.
- - Aprendendo Python, Java, Spring, Sql, JavaScript, HTML 5 E CSS 3.
- - Buscando uma oportunidade no mercado.
+ - Graduating in Systems Analysis and Development.
+ - Software Quality Engineering Intern at Aiko.
+ - Learning Selenium, Cypress, Appium, RestAssured, Postman, JMeter, Gatling, Jenkins and GitLab CI/CD
+ - Tester.
    
 
 <div>
@@ -26,7 +26,7 @@
 
 
           
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-faria-47657520b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-faria47657520b/) 
 <a href="https://www.instagram.com/nvk.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victorfariaj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/PrYAn92VYH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
