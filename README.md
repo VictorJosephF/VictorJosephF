@@ -1,9 +1,9 @@
 
-## Olá! Eu sou o Victor Joseph Faria!
+## Hi! I'm Victor Joseph Faria, and this is my GitHub!
  - Graduating in Systems Analysis and Development.
  - Software Quality Engineering Intern at Aiko.
  - Learning Selenium, Cypress, Appium, RestAssured, Postman, JMeter, Gatling, Jenkins and GitLab CI/CD
- - Tester.
+ - ☢️Tester☢️
    
 
 <div>
