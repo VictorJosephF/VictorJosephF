@@ -1,9 +1,21 @@
+## Hi! 👋 I'm Victor Joseph Faria
 
-## Hi! I'm Victor Joseph Faria, and this is my GitHub!
- - Graduating in Systems Analysis and Development.
- - Software Quality Engineering Intern at [Aiko](https://www.linkedin.com/company/aiko-brasil/posts/?feedView=all).
- - Learning Selenium, Cypress, Appium, RestAssured, Postman, JMeter, Gatling, Jenkins and GitLab CI/CD
- - ☢️Tester☢️
+🎓 Graduating in **Systems Analysis and Development**  
+🧪 **Software Quality Engineer** at [Aiko](https://www.linkedin.com/company/aiko-brasil/)  
+
+### 🔧 Tech Stack & Tools
+- Test Automation: **Selenium | Cypress | Appium | Playwright**
+- API Testing: **RestAssured | Postman**
+- Performance Testing: **JMeter | Gatling**
+- CI/CD: **Jenkins | GitLab CI**
+- Version Control: **Git & GitHub**
+
+### 🚀 About Me
+- Passionate about **test automation and software quality**
+- Focused on building **reliable, scalable, and maintainable test suites**
+- Always learning and improving automation strategies
+
+☢️ **Tester by passion** ☢️
    
 
 <div>
